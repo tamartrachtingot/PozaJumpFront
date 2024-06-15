@@ -59,16 +59,14 @@ Follow these steps to set up the project locally:
    ```bash
    npm install
 Or using Yarn:
-  ```bash
   yarn install
 Running the Project
 To start the development server, use the following command:
 Using npm:
-  ```bash
   npm start
 Or using Yarn:
-  ```bash
-  yarn start
+   yarn start
+
 The application will be accessible at http://localhost:3000 in your web browser.
 ## Project Structure
 PozaJumpFront/
