@@ -69,24 +69,25 @@ Or using Yarn:
 
 The application will be accessible at http://localhost:3000 in your web browser.
 ## Project Structure
-PozaJumpFront/
-├── public/                     # Public assets
-├── src/                        # Source code
-│   ├── assets/                 # Static assets
-│   ├── components/             # Reusable components
-│   ├── config/                 # Configuration files
-│   ├── hooks/                  # Custom hooks
-│   ├── pages/                  # Page components
-│   ├── redux/                  # Redux related files
-│   ├── utils/                  # Utility functions
-│   ├── App.tsx                 # Main App component
-│   ├── index.tsx               # Entry point of the application
-│   └── ...                     # Other directories and files
-├── .eslintrc.js                # ESLint configuration
-├── .gitignore                  # Git ignore file
-├── package.json                # NPM package file
-├── tsconfig.json               # TypeScript configuration
-└── README.md                   # Project README file
+### PozaJumpFront/
+### ├── public/                     # Public assets
+### ├── src/                        # Source code
+### │   ├── assets/                 # Static assets
+### │   ├── components/             # Reusable components
+### │   ├── config/                 # Configuration files
+### │   ├── hooks/                  # Custom hooks
+### │   ├── pages/                  # Page components
+### │   ├── redux/                  # Redux related files
+### │   ├── utils/                  # Utility functions
+### │   ├── App.tsx                 # Main App component
+### │   ├── index.tsx               # Entry point of the application
+### │   └── ...                     # Other directories and files
+### ├── .eslintrc.js                # ESLint configuration
+### ├── .gitignore                  # Git ignore file
+### ├── package.json                # NPM package file
+### ├── tsconfig.json               # TypeScript configuration
+### └── README.md                   # Project README file
+
 ## Contributing
 Contributions are always welcome! Please follow these steps:
 Fork the repository
